@@ -1,2 +1,2 @@
 # demo_git
-This is a Git demo
+This is a Git demo for training purposes
